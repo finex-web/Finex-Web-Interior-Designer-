@@ -1,0 +1,6 @@
+{
+  "name": "FINEX Interior Designer",
+  "description": "Premier luxury interior design studio creating bespoke residential and commercial spaces with timeless elegance and modern functionality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
